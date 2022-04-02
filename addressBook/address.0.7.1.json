@@ -1,0 +1,22 @@
+{
+    "mainnet": {
+        "AccountCenter": "0xd9F31eE4c802cD670bE2A58B8C3069DB74B34f6A",
+        "TokenCenter": "0x6A024bb85eD0dbA1d13a14c13E6F9C820241A1B3",
+        "EventCenter": "0x6BeE23658787a61f843C58c74b2F0Ff49917C74b",
+        "ProtocolCenter": "0xd38b7D048c9c984883A7bDb90E115F428585Eede",
+        "ProtocolAaveV2": "0x5aE62f600Ec5183141A85260025d15bB43e62073",
+        "ProtocolUniswapV2": "0x468A35927bD4C5ea8965F6cE223B1B3aca633710",
+        "ProtocolERC20": "0xC159d6e553cca8F7640603cDBA8ECb7A1C78a88E",
+        "OpDefalut": "0x66C49A3F75af8E9ADADfc610f307E117501c05E2",
+        "OperationCenterOpLong": "0xC9C82d209A9B588B5985038d896f9992Ed222AAF",
+        "AccountProxyOpLong": "0xb93de2c0cB2fA2282284F1eacd2ED8Cabf38E58B",
+        "OpLong": "0x002765Ca5E6F15828146138881867484253d6FB8",
+        "AaveV2Resolver": "0xEB2E81Ec25E3f2842b46688E68a465d6C4377e39",
+        "RewardCenter": "0x6bDAF242f044Eb3a715CAaf741D89DaB46394294",
+        "OperationCenterOpShort": "0xDB802A8cA08D5dbF50c25EB2dd46917A95c0847e",
+        "AccountProxyOpShort": "0xD7E7180914a53e7eb12D48FEDebBE72737EeECf4",
+        "OpShort": "0x065de286D9fD00D49CEA2F0c58A88b820c2Ec06f",
+        "AaveStakeRewardClaimer": "0x70f15834a8cCd67337b75e759e4335074793858b",
+        "OpClaimAaveV2StakedRewards": "0x93bf6e7AaEc7cb14C6D88920D4A8Edb793765d90"
+    }
+}
